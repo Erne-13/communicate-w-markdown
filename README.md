@@ -7,6 +7,10 @@
 
 # Communicate using Markdown
 
+## Adding a Header in Markdown
+### Adding a Header in Markdown
+#### Adding a Header in Markdown
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
